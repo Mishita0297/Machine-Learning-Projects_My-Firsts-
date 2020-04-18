@@ -1,2 +1,3 @@
-# Data-Capstone-Project-Python-for-Data-Science-and-Machine-Learning-Bootcamp-for-
-Mini projects for practicing the usage various libraries of Python including Matplotlib, Seaborn and Ploty for Data Visualization 
+# Data-Capstone-Projects-from-Python-for-Data-Science-and-Machine-Learning-Bootcamp
+Mini projects for practicing the usage of various libraries of Python including Matplotlib, Seaborn and Plotly for Data Visualization taken from Python for Data Science and Machine Learning Bootcamp
+
