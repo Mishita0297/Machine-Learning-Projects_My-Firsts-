@@ -1,3 +1,3 @@
 # Practise-Projects-from-Python-for-Data-Science-and-Machine-Learning-Bootcamp (Pierian Data)
-Mini projects for practicing the usage of various libraries of Python including Matplotlib, Seaborn and Plotly for Data Visualization taken from Python for Data Science and Machine Learning Bootcamp.
+Mini projects for practicing the usage of various libraries of Python including Matplotlib, Seaborn and Plotly for Data Visualization taken from Python for Data Science and Machine Learning Bootcamp. Analysis of California Housing Dataset from the book Aurélien Gérn - Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017). ogistc Regression to solve the famous Titanic challenge from Kaggle.
 The description of the data sets being used and the steps being performed are given in the respective notebooks.
